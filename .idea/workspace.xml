@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fca6cf35-a01c-46e2-958a-fc6c20e8a28b" name="Default Changelist" comment="" />
+    <list default="true" id="fca6cf35-a01c-46e2-958a-fc6c20e8a28b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/about-us-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ee/index/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/banner-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/best-deals-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/blog-1-column-left-sidebar-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/blog-1-column-right-sidebar-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/blog-2-column-left-sidebar-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/blog-2-column-right-sidebar-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/buttons-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/cart-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/category-1-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/category-2-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/category-3-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/checkout-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/clients-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/compare-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/contact-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/faq-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/feature-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/index-2-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/index-3-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/index-4-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/index-5-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/index-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ee/index/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/login-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/register-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/shop-grid-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/shop-grid-extended-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/shop-grid-left-sidebar-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/shop-grid-right-sidebar-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/shop-list-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/shop-list-left-sidebar-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/shop-list-right-sidebar-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/single-blog-left-sidebar-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/single-blog-right-sidebar-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/single-product-2-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/single-product-3-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/single-product-4-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/single-product-5-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/single-product-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/store-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/tabs-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/team-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/terms-conditions-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/testimonial-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/track-order-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/typography-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ee/index/wishlist-dark.html" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,100 +61,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ee/index/blog-2-column-left-sidebar-dark.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ee/index/blog-2-column-left-sidebar.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ee/index/blog-1-column-right-sidebar-dark.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ee/index/blog-1-column-right-sidebar.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ee/index/blog-1-column-left-sidebar-dark.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ee/index/blog-1-column-left-sidebar.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ee/index/best-deals-dark.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ee/index/best-deals.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ee/index/banner-dark.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="91" column="52" selection-start-line="91" selection-start-column="52" selection-end-line="91" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ee/index/banner.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1530" />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -115,16 +77,22 @@
       <find>logo</find>
       <find>logo.png</find>
       <find>logo.pn</find>
+      <find>section-title-one</find>
+      <find>button class=&quot;customizer&quot;</find>
+      <find>preview-customizer</find>
+      <find>light-dark</find>
+      <find>customizer-toggle</find>
+      <find>light-da</find>
+      <find>light-</find>
+      <find>previ</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ee/index/shop-grid-left-sidebar-dark.html" />
-        <option value="$PROJECT_DIR$/ee/index/shop-grid-left-sidebar.html" />
-        <option value="$PROJECT_DIR$/ee/index/shop-grid-extended-dark.html" />
-        <option value="$PROJECT_DIR$/ee/index/shop-grid-extended.html" />
-        <option value="$PROJECT_DIR$/ee/index/shop-grid-dark.html" />
         <option value="$PROJECT_DIR$/ee/index/shop-grid.html" />
         <option value="$PROJECT_DIR$/ee/index/register-dark.html" />
         <option value="$PROJECT_DIR$/ee/index/register.html" />
@@ -171,6 +139,11 @@
         <option value="$PROJECT_DIR$/ee/index/best-deals-dark.html" />
         <option value="$PROJECT_DIR$/ee/index/best-deals.html" />
         <option value="$PROJECT_DIR$/ee/index/banner-dark.html" />
+        <option value="$PROJECT_DIR$/ee/index/banner.html" />
+        <option value="$PROJECT_DIR$/ee/index/about-us-dark.html" />
+        <option value="$PROJECT_DIR$/ee/index/about-us.html" />
+        <option value="$PROJECT_DIR$/ee/index/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/ee/index/index.html" />
       </list>
     </option>
   </component>
@@ -180,41 +153,22 @@
     <option name="width" value="1400" />
     <option name="height" value="988" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="NBR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NBR" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NBR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NBR" type="462c0819:PsiDirectoryNode" />
-              <item name="ee" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NBR" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NBR" type="462c0819:PsiDirectoryNode" />
-              <item name="ee" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/HelloWorld.iml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
@@ -242,23 +196,26 @@
       <option name="presentableId" value="Default" />
       <updated>1571973651628</updated>
       <workItem from="1571973652816" duration="8449000" />
-      <workItem from="1572576200289" duration="1467000" />
+      <workItem from="1572576200289" duration="5537000" />
+      <workItem from="1572777320319" duration="4435000" />
+      <workItem from="1573032049159" duration="753000" />
+      <workItem from="1573215697111" duration="1130000" />
+      <workItem from="1573351353838" duration="524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9916000" />
+    <option name="totallyTimeSpent" value="20828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.16684435" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.17004265" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -287,55 +244,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ee/index/shop-grid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/register-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/login-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/index-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/index-5-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="215" column="53" selection-start-line="215" selection-start-column="53" selection-end-line="215" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ee/index/index-5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -343,13 +251,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/index-4-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="215" column="53" selection-start-line="215" selection-start-column="53" selection-end-line="215" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/index-4-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/index-4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -357,13 +259,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/index-3-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="215" column="53" selection-start-line="215" selection-start-column="53" selection-end-line="215" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/index-3-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/index-3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -371,13 +267,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/index-2-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="83" column="53" selection-start-line="83" selection-start-column="53" selection-end-line="83" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/index-2-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/index-2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -385,20 +275,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="79" selection-start-line="91" selection-start-column="72" selection-end-line="91" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/feature-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="52" selection-start-line="91" selection-start-column="52" selection-end-line="91" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/feature-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/feature.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -406,13 +283,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/faq-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/faq-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/faq.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -420,13 +291,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/contact-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/contact-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
@@ -434,13 +299,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/compare-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/compare-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/compare.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -448,13 +307,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/clients-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/clients-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/clients.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -462,13 +315,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/checkout-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/checkout-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/checkout.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -476,13 +323,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/category-3-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/category-3-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/category-3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -490,24 +331,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/category-2-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/category-2-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/category-2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="91" column="79" selection-start-line="91" selection-start-column="72" selection-end-line="91" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/category-1-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -518,13 +346,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/cart-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/cart-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/cart.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -532,20 +354,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/buttons-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="52" selection-start-line="91" selection-start-column="52" selection-end-line="91" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/buttons-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/blog-3-column-dark.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -560,13 +369,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/blog-2-column-right-sidebar-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="52" selection-start-line="91" selection-start-column="52" selection-end-line="91" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/blog-2-column-right-sidebar-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/blog-2-column-right-sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -574,13 +377,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/blog-2-column-left-sidebar-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/blog-2-column-left-sidebar-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/blog-2-column-left-sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -588,13 +385,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/blog-1-column-right-sidebar-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/blog-1-column-right-sidebar-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/blog-1-column-right-sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -602,13 +393,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/blog-1-column-left-sidebar-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/blog-1-column-left-sidebar-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/blog-1-column-left-sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -616,13 +401,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/best-deals-dark.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/best-deals-dark.html" />
     <entry file="file://$PROJECT_DIR$/ee/index/best-deals.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -630,16 +409,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/banner-dark.html">
+    <entry file="file://$PROJECT_DIR$/ee/index/banner-dark.html" />
+    <entry file="file://$PROJECT_DIR$/ee/index/banner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="91" column="52" selection-start-line="91" selection-start-column="52" selection-end-line="91" selection-end-column="52" />
+        <state relative-caret-position="34">
+          <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ee/index/banner.html">
+    <entry file="file://$PROJECT_DIR$/ee/index/about-us-dark.html" />
+    <entry file="file://$PROJECT_DIR$/ee/index/category-1-dark.html" />
+    <entry file="file://$PROJECT_DIR$/ee/index/wishlist-dark.html" />
+    <entry file="file://$PROJECT_DIR$/ee/index/about-us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1530" />
+        <state relative-caret-position="40">
+          <caret line="627" column="16" selection-start-line="627" selection-start-column="16" selection-end-line="627" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/HelloWorld.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="106" column="25" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="92" column="81" selection-start-line="92" selection-start-column="81" selection-end-line="92" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ee/index/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="2686" selection-start-line="2686" selection-end-line="2686" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
       </provider>
     </entry>
   </component>
